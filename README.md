@@ -6,7 +6,7 @@ Este é um projeto de estudo focado na implementação de operações CRUD (Crea
 
 - Node.js instalado (versão 14 ou superior)
 - npm ou yarn
-- Banco de dados PostgreSQL
+- Banco de dados sqlite, MySQL, MongoDB, PostgreSQL, sqlserver
 
 ## Instalação
 
